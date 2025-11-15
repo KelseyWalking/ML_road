@@ -6,7 +6,7 @@ I explore machine learning through fun business and personal projects. I will ke
 Some original data from my past work cannot be used, so I replace them with similar public datasets and build prototype projects using my own ideas.  
 
 ## Content
-This repo includes projects: pricing optimization frameworks, forecasting models, song recommendation systems, and customer clustering models.  
+This repo includes projects: pricing optimization frameworks, demande forecasting framework, recommendation framework, and customer clustering models.  
 
 
 ## Disclaimer
