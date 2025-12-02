@@ -1,5 +1,5 @@
 # Machine Learning Road  
-This repository is a collection of my machine learning projects, resources, and experiments—documenting my journey into Data Science and applied ML.
+This repository is a collection of my machine learning projects, resources, and experiments—documenting my journey into Data Science and applied ML. Please note these are Personal open-source projects, not related to my work projects.
 
 ## Purpose
 I explore machine learning through fun business and personal projects. I will keep documenting my ideas, step-by-step ML workflows, and learnings as I continue exploring.
